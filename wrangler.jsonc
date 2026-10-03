@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "crmv2",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-03",
+  "workers_dev": true,
+
+  "vars": {
+    "OVCRM_WORKER_ENVIRONMENT": "STAGING",
+    "OVCRM_API_V2_URL": "https://script.google.com/macros/s/AKfycbzjeBkkDvEEKTHha571t9WLuYeFuGEhOM3wX5Ruz-xh02ABSIgET9gU_PX8vXV2aR8mEA/exec",
+    "GOOGLE_CLIENT_ID": "AQUI_PEGA_TU_CLIENT_ID_COMPLETO.apps.googleusercontent.com"
+  }
+}
