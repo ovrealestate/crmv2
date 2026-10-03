@@ -8,6 +8,6 @@
   "vars": {
     "OVCRM_WORKER_ENVIRONMENT": "STAGING",
     "OVCRM_API_V2_URL": "https://script.google.com/macros/s/AKfycbzjeBkkDvEEKTHha571t9WLuYeFuGEhOM3wX5Ruz-xh02ABSIgET9gU_PX8vXV2aR8mEA/exec",
-    "GOOGLE_CLIENT_ID": "AQUI_PEGA_TU_CLIENT_ID_COMPLETO.apps.googleusercontent.com"
+    "GOOGLE_CLIENT_ID": "868071884908-d5ielt27vap9cci0v5jonl7493v9b6dm.apps.googleusercontent.com"
   }
 }
